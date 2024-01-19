@@ -14,7 +14,7 @@
 To install blueprinter, run the following command:
 
 ```
-go get -u github.com/yuemori/blueprinter
+go install github.com/yuemori/blueprinter@latest
 ```
 
 ## Usage
